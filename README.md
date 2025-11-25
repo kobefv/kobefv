@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi, I'm Kobe
+🎓 Cybersecurity student @ Purdue University
+🔐 Interested in network security, forensics, and ethical hacking
+💻 Always learning and building security-focused projects
 
-<!--
-**kobefv/kobefv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Skills & Tools
+Python • Bash • Java
+Linux (Kali/Debian)
+Wireshark • Nmap • Burp Suite
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Current Focus
+Developing cybersecurity labs & small tools
+Strengthening Linux, scripting, and security fundamentals
