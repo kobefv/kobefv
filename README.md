@@ -1,14 +1,9 @@
-👋 Hi, I'm Kobe
+Hey there👋
 
-🎓 Cybersecurity student @ Purdue University
-🔐 Interested in network security, forensics, and ethical hacking
-💻 Always learning and building security-focused projects
+I'm Kobe, a cybersecurity student @ Purdue University.
 
-🛠️ Skills & Tools
-Python • Bash • Java
-Linux (Kali/Debian)
-Wireshark • Nmap • Burp Suite
+I’m currently learning about network security, digital forensics, penetration testing, and how to break (and fix) things the right way.
 
-📚 Current Focus
-Developing cybersecurity labs & small tools
-Strengthening Linux, scripting, and security fundamentals
+I enjoy exploring tools, practicing in labs, and building small security-focused projects as I grow my skills.
+
+This profile is where I’ll share experiments, learning projects, and anything cool I’m working on. Everything here is made from scratch as I continue my journey into cybersecurity.
